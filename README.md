@@ -147,7 +147,7 @@ telegram-birthday-bot/
 - **Brands & creators** use it to celebrate followers/customers, so they can nurture loyalty and drive replies organically.  
 - **Agency operators** use it to manage multiple client accounts, so they can deliver consistent touchpoints at scale.
 
-##FAQs
+## FAQs
 **How do I configure this automation for multiple accounts?**  
 Add profiles in the dashboard, attach device/emulator mappings, and assign per-profile schedules and proxies. Each account runs in an isolated session with its own queue.
 
